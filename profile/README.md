@@ -1,9 +1,5 @@
-# Über Baum22Team
+## About us
 
-**Name:** Baum22Team / baum22team
+We are 3 hobby programmers from Germany and we thought about starting a GitHub organization to work together on a [website](https://baum22team.github.io) and other coding projects.  
 
-**Webseite:** [`baum22team.github.io`](https://baum22team.github.io)
-
-(**Email:** [`baum22team@freakmail.de`](mailto:baum22team@freakmail.de))
-
-**Über uns:** Wir sind 3 Hobby-Programmierer aus Deutschland und wir haben uns überlegt eine GitHub-Organisation zu gründen um gemeinsam an einer Website und anderen Coding-Projekten zu arbeiten.
+If you would like to contact us, please email us at baum22team@freakmail.de  
